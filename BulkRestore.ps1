@@ -57,7 +57,7 @@ foreach ($jobID in $JobIdArray)
 				<commCellId>2</commCellId>
 				<backupset>
 				  <backupsetName>defaultArchiveSet</backupsetName>
-				  <clientName>pa1exch01</clientName>
+				  <clientName>MyExchangeServer</clientName>
 				</backupset>
 				<timeRange>
 				  <fromTimeValue>2008-09-01 09:32:43</fromTimeValue>
@@ -86,7 +86,7 @@ foreach ($jobID in $JobIdArray)
 			  <destination>
 				<destPath>PST:D:\restore\restore_'+$jobID+'.pst</destPath>
 				<destClient>
-				  <clientName>pa1exch02</clientName>
+				  <clientName>MyExchangeServer</clientName>
 				</destClient>
 				<inPlace>true</inPlace>
 				<isLegalHold>false</isLegalHold>
