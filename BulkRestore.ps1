@@ -38,7 +38,7 @@ foreach ($jobID in $JobIdArray)
 		  <backupsetName>defaultArchiveSet</backupsetName>
 		  <instanceName>defaultInstance</instanceName>
 		  <appName>Exchange Compliance Archiver</appName>
-		  <clientName>pa1exch01</clientName>
+		  <clientName>MyExchangeServer</clientName>
 		  <consumeLicense>true</consumeLicense>
 		  <clientSidePackage>true</clientSidePackage>
 		</associations>
