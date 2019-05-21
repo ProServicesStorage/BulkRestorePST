@@ -8,7 +8,7 @@ Modify $InputFile to reflect your directory and path
 Modify the following XML sections:
 
         <destPath>PST:D:\restore\restore_'+$jobID+'.pst</destPath>
-			  <clientName>MyExchangeServer</clientName>
+	<clientName>MyExchangeServer</clientName>
 				
 
 
