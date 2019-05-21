@@ -1,5 +1,5 @@
 # BulkRestorePST
-Restores multiple backup jobs to a corresponding PST file with matching job number for Compliance Archiver Journal Data. However, it could be modified for any type of restore and the appropriate XML generated in Commvault. This was a use case be can be helpful as a template.
+Restores multiple backup jobs to a corresponding PST file with matching job number for Compliance Archiver Journal Data. However, it could be modified for any type of restore and the appropriate XML generated in Commvault. This was a use case that maybe helpful as a starting point.
 
 Usage: 
 
